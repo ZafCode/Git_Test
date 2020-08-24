@@ -10,6 +10,7 @@ public class Seker {
 
 
         System.out.println("cift Sekers");
+        System.out.println("az Sekers");
 
 
 
