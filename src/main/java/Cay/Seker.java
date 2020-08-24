@@ -6,9 +6,6 @@ public class Seker {
 
         System.out.println("cook sekers");
      
-
-
-
         System.out.println("cift Sekers");
         System.out.println("az Sekers");
 
